@@ -1,3 +1,5 @@
+<img src="./dexterity-fig1.png" width="450px"></img>
+
 ## two-stage-dexterity-learning (wip)
 
 Explorations into the proposal from the paper, "Visual-tactile pretraining and online multitask learning for humanlike manipulation dexterity", from Zhejiang University
